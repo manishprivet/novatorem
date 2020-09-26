@@ -1,5 +1,6 @@
 # Set Up Guide
 
+
 ## Spotify
 
 * Create a [Spotify Application](https://developer.spotify.com/dashboard/applications)
